@@ -5,3 +5,6 @@ output/
 *.o
 *.out
 a.out
+*.i
+*.s
+hello/hello_w
